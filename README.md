@@ -287,4 +287,5 @@ The number in between `ttv-boxart/` and `-144x192.jpg` is the game ID. In this e
 
 ## Auto Claim (Drops & Points) alternate ( Chrome Extension)
 
+until there is a fix I recommend this extension
 https://chrome.google.com/webstore/detail/automatic-twitch-drops-mo/kfhgpagdjjoieckminnmigmpeclkdmjm
