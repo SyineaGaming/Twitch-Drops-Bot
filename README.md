@@ -283,3 +283,8 @@ Open the game's main page on Twitch, for example, Rocket League: https://www.twi
 ```
 
 The number in between `ttv-boxart/` and `-144x192.jpg` is the game ID. In this example it is `30921`.
+
+
+## Auto Claim (Drops & Points) alternate ( Chrome Extension)
+
+https://chrome.google.com/webstore/detail/automatic-twitch-drops-mo/kfhgpagdjjoieckminnmigmpeclkdmjm
